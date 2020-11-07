@@ -1,0 +1,3 @@
+#!/usr/bin/env fish
+
+gsettings set org.gnome.mutter overlay-key ""
