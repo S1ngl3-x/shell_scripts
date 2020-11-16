@@ -1,0 +1,2 @@
+#!/usr/bin/env fish
+dconf load /apps/guake/ < ~/.config/guake_config/guake.dconf
